@@ -1,0 +1,17 @@
+{
+  "name": "@atomistics/elements",
+  "version": "1.0.0",
+  "description": "A table of information about the chemical elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chemistry",
+    "atomistics",
+    "elements"
+  ],
+  "author": "Rye Terrell",
+  "license": "Unlicensed",
+  "repository": "github:atomistics/elements"
+}
